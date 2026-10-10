@@ -36,10 +36,10 @@ I work from the terminal, not the browser. The rule I care about most: nothing i
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg" />
-  <img src="./assets/stats-dark.svg" width="880" alt="Last 30 days: 3,314+ agent sessions, 80,477 model calls, 24.7 billion tokens, 96% of them served from cache, across Claude, Codex and Kimi" />
+  <img src="./assets/stats-dark.svg" width="880" alt="Last 30 days: 3,395+ agent sessions, 85,432 model calls, 26.0 billion tokens, 96% of them served from cache, across Claude, Codex and Kimi" />
 </picture>
 
-<sub>Measured with <a href="https://github.com/getagentseal/codeburn">CodeBurn</a> on my main machine, 9 September to 9 October 2026.</sub>
+<sub>Measured with <a href="https://github.com/getagentseal/codeburn">CodeBurn</a> on my main machine, 10 September to 9 October 2026.</sub>
 
 **You will find something useful here if** you run client work with Claude Code or Codex and want the output checked before it leaves: a source for every number, quotes that match the transcript, links that open.
 
