@@ -17,7 +17,7 @@
 </picture>
   </a>
 
-<img src="./assets/brilia22/ink-workflow-fixed.png" width="880" alt="Ink illustration of connected workstations, a manual document review and a delivery between computers." />
+<img src="./assets/brilia22/ink-workflow-color.jpg" width="880" alt="Ink illustration of connected workstations, a manual document review and a delivery between computers." />
 
 </div>
 
