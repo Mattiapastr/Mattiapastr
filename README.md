@@ -27,6 +27,12 @@
 
 I run [BRILIA](https://brilia.it), a marketing agency in Italy. Its promise fits in one line: we bring clients to our clients.
 
+
+<p align="center">
+  <img src="./assets/brilia22/ink-strategy.jpg" width="520" alt="A hand-drawn route connects an audience to local businesses, guided by a human hand and compass." /><br />
+  <sub>Strategy starts with the client, the audience and the route between them.</sub>
+</p>
+
 I build multi-agent marketing workflows with Claude Code, Codex and Kimi. My work combines marketing strategy, software, automation and human review, with a focus on work that can be checked before delivery.
 
 I build from the terminal and verify the result where people will use it. The rule I care about most: nothing is called delivered until someone has checked it on the channel it was delivered to.
@@ -54,6 +60,11 @@ These usage figures describe workload on one PC; they are not a measure of outpu
 ---
 
 ## BRILIA organization
+
+<p align="center">
+  <img src="./assets/brilia22/ink-orchestration.jpg" width="520" alt="Human hands coordinate three specialized computer workstations from one control desk." /><br />
+  <sub>Specialized agents. Human direction.</sub>
+</p>
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/brilia22/organization-dark-mobile.png" />
@@ -122,6 +133,12 @@ Four rules I work by. I call them the Pastrello Method.
 - Read the work again from the side of whoever receives it.
 - What that second read finds, you fix. You don't just flag it.
 - "Delivered" is proven on the channel, never assumed from "produced".
+
+<p align="center">
+  <img src="./assets/brilia22/ink-verification.jpg" width="520" alt="Hands compare a printed page with its delivered version on a computer screen and correct a finding." /><br />
+  <sub>Produced is a step. Delivery is checked where the work will be used.</sub>
+</p>
+
 
 ---
 
