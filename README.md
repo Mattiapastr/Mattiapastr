@@ -36,10 +36,10 @@ I work from the terminal, not the browser. The rule I care about most: nothing i
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg" />
-  <img src="./assets/stats-dark.svg" width="880" alt="Last 30 days: 3,395+ agent sessions, 85,432 model calls, 26.0 billion tokens, 96% of them served from cache, across Claude, Codex and Kimi" />
+  <img src="./assets/stats-dark.svg" width="880" alt="Last 30 days, snapshot 29 October 2026 on Charlie, my main Windows PC: at least 9,119 logged sessions, 140,431 model calls, 340.4 million input/output tokens, 99.7% cache hit" />
 </picture>
 
-<sub>Measured with <a href="https://github.com/getagentseal/codeburn">CodeBurn</a> on my main machine, 10 September to 9 October 2026.</sub>
+<sub>Measured with <a href="https://github.com/getagentseal/codeburn">CodeBurn</a> on Charlie, my main Windows PC. Rolling “Last 30 Days” view, captured on 29 October 2026. Session count is a lower bound and includes automated observer sessions. Input/output tokens exclude cache reads and writes: CodeBurn reports those separately as 36.50B read and 1.29B written. The activity bar shows estimated cost share, not turn share. Tools detected: Claude, Codex, Kimi Code and Copilot.</sub>
 
 **You will find something useful here if** you run client work with Claude Code or Codex and want the output checked before it leaves: a source for every number, quotes that match the transcript, links that open.
 
