@@ -10,14 +10,14 @@
 
   <a href="https://brilia.it">
     <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/brilia22/header-dark-mobile.svg" />
-  <source media="(max-width: 600px)" srcset="./assets/brilia22/header-light-mobile.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/brilia22/header-dark.svg" />
-  <img src="./assets/brilia22/header-light.svg" width="880" alt="Mattia Pastrello, BRILIA founder. Marketing systems and human review. Charlie, Windows PC, Tortoli, Italy." />
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/brilia22/header-dark-mobile.png" />
+  <source media="(max-width: 600px)" srcset="./assets/brilia22/header-light-mobile.png" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/brilia22/header-dark.png" />
+  <img src="./assets/brilia22/header-light.png" width="880" alt="Mattia Pastrello, BRILIA founder. Marketing systems and human review. Charlie, Windows PC, Tortoli, Italy." />
 </picture>
   </a>
 
-<img src="./assets/brilia22/ink-workflow.png" width="880" alt="Ink illustration of connected workstations, a manual document review and a delivery between computers." />
+<img src="./assets/brilia22/ink-workflow-fixed.png" width="880" alt="Ink illustration of connected workstations, a manual document review and a delivery between computers." />
 
 </div>
 
@@ -40,10 +40,10 @@ I build from the terminal and verify the result where people will use it. The ru
 ## Local AI usage
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/brilia22/stats-dark-mobile.svg" />
-  <source media="(max-width: 600px)" srcset="./assets/brilia22/stats-light-mobile.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/brilia22/stats-dark.svg" />
-  <img src="./assets/brilia22/stats-light.svg" width="880" alt="CodeBurn, rolling last 30 days, 29 October 2026: 9,119+ sessions; 140,431 model calls; 340.4M input/output tokens; 99.7% cache hit. Estimated cost shares: coding 59%, delegation 11%, features 10%, exploration 9%, debugging 6%, conversation 2%, other 3%." />
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/brilia22/stats-dark-mobile.png" />
+  <source media="(max-width: 600px)" srcset="./assets/brilia22/stats-light-mobile.png" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/brilia22/stats-dark.png" />
+  <img src="./assets/brilia22/stats-light.png" width="880" alt="CodeBurn, rolling last 30 days, 29 October 2026: 9,119+ sessions; 140,431 model calls; 340.4M input/output tokens; 99.7% cache hit. Estimated cost shares: coding 59%, delegation 11%, features 10%, exploration 9%, debugging 6%, conversation 2%, other 3%." />
 </picture>
 
 <sub>Measured with <a href="https://github.com/getagentseal/codeburn">CodeBurn</a> on Charlie, my main Windows PC. Rolling “Last 30 Days” view, captured on 29 October 2026. Session count is a lower bound and includes automated observer sessions. Input/output tokens exclude cache reads and writes: CodeBurn reports those separately as 36.50B read and 1.29B written. The activity bar shows estimated cost share, not turn share. Tools detected: Claude, Codex, Kimi Code and Copilot.</sub>
@@ -56,10 +56,10 @@ These usage figures describe workload on one PC; they are not a measure of outpu
 ## BRILIA organization
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/brilia22/organization-dark-mobile.svg" />
-  <source media="(max-width: 600px)" srcset="./assets/brilia22/organization-light-mobile.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/brilia22/organization-dark.svg" />
-  <img src="./assets/brilia22/organization-light.svg" width="880" alt="BRILIA, snapshot 5 September 2026: 9 departments, 60 registered units, 21 operational. Content; client intelligence; office; analytics; research; advertising; platform; development; lead generation." />
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/brilia22/organization-dark-mobile.png" />
+  <source media="(max-width: 600px)" srcset="./assets/brilia22/organization-light-mobile.png" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/brilia22/organization-dark.png" />
+  <img src="./assets/brilia22/organization-light.png" width="880" alt="BRILIA, snapshot 5 September 2026: 9 departments, 60 registered units, 21 operational. Content; client intelligence; office; analytics; research; advertising; platform; development; lead generation." />
 </picture>
 
 The agency is organized into **9 departments and 60 registered units**. The v5.0 snapshot records **21 operational units** and **5 under construction**. These figures describe the structure documented on **5 September 2026**.
@@ -71,10 +71,10 @@ The agency is organized into **9 departments and 60 registered units**. The v5.0
 ## Public project
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/brilia22/k3-dark-mobile.svg" />
-  <source media="(max-width: 600px)" srcset="./assets/brilia22/k3-light-mobile.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/brilia22/k3-dark.svg" />
-  <img src="./assets/brilia22/k3-light.svg" width="880" alt="K3 plugin for Claude Code: read-only review, adversarial challenge and delegated tasks. Windows support. Apache-2.0 unofficial fork; own Kimi Code subscription required." />
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/brilia22/k3-dark-mobile.png" />
+  <source media="(max-width: 600px)" srcset="./assets/brilia22/k3-light-mobile.png" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/brilia22/k3-dark.png" />
+  <img src="./assets/brilia22/k3-light.png" width="880" alt="K3 plugin for Claude Code: read-only review, adversarial challenge and delegated tasks. Windows support. Apache-2.0 unofficial fork; own Kimi Code subscription required." />
 </picture>
 
 <div align="center">
@@ -112,10 +112,10 @@ You need your own Kimi Code subscription. The plugin never carries a credential.
 Four rules I work by. I call them the Pastrello Method.
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/brilia22/method-dark-mobile.svg" />
-  <source media="(max-width: 600px)" srcset="./assets/brilia22/method-light-mobile.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/brilia22/method-dark.svg" />
-  <img src="./assets/brilia22/method-light.svg" width="880" alt="Pastrello Method: read existing context, review from the recipient perspective, fix findings, verify delivery on its actual channel." />
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/brilia22/method-dark-mobile.png" />
+  <source media="(max-width: 600px)" srcset="./assets/brilia22/method-light-mobile.png" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/brilia22/method-dark.png" />
+  <img src="./assets/brilia22/method-light.png" width="880" alt="Pastrello Method: read existing context, review from the recipient perspective, fix findings, verify delivery on its actual channel." />
 </picture>
 
 - Before doing anything, check what we already know.
